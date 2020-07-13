@@ -1,4 +1,5 @@
 #HW Assignment
+#BMI Question
 
 weightlol = int(input("Enter your weight in kg: "))
 heightunitlol = str(input("What is your preferred unit of height? Type F for feet and M for meters: "))
